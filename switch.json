@@ -1,0 +1,12 @@
+{
+  "switch_list": [
+    {
+      "hostname": "SW-A",
+      "ip": "172.16.0.1"
+    },
+    {
+      "hostname": "SW-B",
+      "ip": "172.16.0.2"
+    }
+  ]
+}
